@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI_TEST_01", "AI_TEST_01\AI_TEST_01.csproj", "{3A162B51-D592-463C-B65C-3C16E16A102E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7AB19875-C6C9-4009-9637-1C5C4084927C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A162B51-D592-463C-B65C-3C16E16A102E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A162B51-D592-463C-B65C-3C16E16A102E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A162B51-D592-463C-B65C-3C16E16A102E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A162B51-D592-463C-B65C-3C16E16A102E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
